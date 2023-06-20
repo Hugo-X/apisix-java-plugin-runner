@@ -28,7 +28,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>21</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <packaging>pom</packaging>
 
@@ -58,7 +58,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <compiler.version>1.8</compiler.version>
         <netty.version>4.1.54.Final</netty.version>
-        <guava.version>30.1.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <spring-boot.version>2.4.5</spring-boot.version>
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
     </properties>
